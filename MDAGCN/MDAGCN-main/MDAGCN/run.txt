@@ -1,0 +1,11 @@
+python -m graphsaint.pytorch_version.train_saveys --data_prefix drug_mutation_data/task_Tp__testlabel0_3knn_edge_fold0  --train_config graphsaint/parameters_epoch_1.yml
+
+
+python -m graphsaint.pytorch_version.train_saveys --data_prefix drug_mutation_data/task_Tp__testlabel0_7knn_edge_fold0  --train_config graphsaint/parameters_epoch_1.yml
+
+
+
+
+
+
+
